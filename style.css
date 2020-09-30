@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #24272c;
+    color: #eee;
+    font-family: sans-serif;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+figure img {
+    width: 100%;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+    letter-spacing: 1.5px;
+    margin-bottom: 24px;
+}
+
+input {
+    width: 250px;
+    margin-bottom: 32px;
+}
